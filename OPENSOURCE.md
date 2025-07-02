@@ -160,4 +160,4 @@ All Teneo open source projects use **MIT License** because:
 
 *"We don't hoard breakthroughs. We share foundations and build better futures."*
 
-**Last Updated**: January 2025
+**Last Updated**: July 2025
